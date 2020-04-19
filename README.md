@@ -7,4 +7,4 @@ main concept is like below:
 
 
 
-| web server  |-->(spring security)----->| web resouces|
+| browser  |-->(spring security)----->| web resouces|
