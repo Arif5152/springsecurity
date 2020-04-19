@@ -12,4 +12,9 @@ public class RestController {
 		return ("<H1>Hello</H1>");
 	}
 	
+	@GetMapping("/hello")
+	public String sayBye()
+	{
+		return "bye";
+	}
 }
